@@ -1,0 +1,297 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 858,
+      "max": [
+        0.10644300282001495,
+        0.20791299641132355,
+        1.6808840036392212
+      ],
+      "min": [
+        -0.11371400207281113,
+        -0.15617099404335022,
+        1.4607269763946533
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 10296,
+      "componentType": 5126,
+      "count": 858,
+      "max": [
+        0.9999439716339111,
+        1.0,
+        0.9999438524246216
+      ],
+      "min": [
+        -0.9999762177467346,
+        -1.0,
+        -0.9999443888664246
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 858,
+      "max": [
+        0.999906063079834,
+        0.9999353885650635,
+        0.9492096900939941,
+        1.0
+      ],
+      "min": [
+        -0.9788687229156494,
+        -0.999599814414978,
+        -0.999466598033905,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 858,
+      "max": [
+        1.0,
+        0.8922100067138672
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 2640,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "JD Imagery (https://sketchfab.com/jdimagery)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/starbucks-christmas-coffee-cup-41fb228812bf4cd58b55845a9bf5ad16",
+      "title": "Starbucks Christmas Coffee Cup"
+    },
+    "generator": "Sketchfab-15.12.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 10560,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6864,
+      "byteOffset": 10560,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 20592,
+      "byteOffset": 17424,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13728,
+      "byteOffset": 38016,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 51744,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_specular"
+  ],
+  "images": [
+    {
+      "uri": "textures/SBCoffeeCupMat_baseColor.png"
+    },
+    {
+      "uri": "textures/SBCoffeeCupMat_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/SBCoffeeCupMat_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularColorFactor": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "specularFactor": 0.0
+        }
+      },
+      "name": "SBCoffeeCupMat",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "SB_CoffeeCup_SBCoffeeCupMat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.4185023307800293,
+        -4.0182899158829003e-16,
+        -9.706515168771746e-32,
+        0.0,
+        5.677784128476077e-32,
+        5.43083358507851e-16,
+        -1.4185023307800293,
+        0.0,
+        4.0182899158829003e-16,
+        1.4185023307800293,
+        5.43083358507851e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "bd45819f3fa544c0a049a853393bb980.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        41.55723571777344,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -41.55723571777344,
+        5.08929357031833e-15,
+        0.0,
+        0.0,
+        -5.08929357031833e-15,
+        -41.55723571777344,
+        0.0,
+        0.14744581282138824,
+        1.1009982824325562,
+        66.8491439819336,
+        1.0
+      ],
+      "name": "SB_CoffeeCup"
+    },
+    {
+      "mesh": 0,
+      "name": "SB_CoffeeCup_SBCoffeeCupMat_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
