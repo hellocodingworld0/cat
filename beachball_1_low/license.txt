@@ -1,0 +1,11 @@
+Model Information:
+* title:	Beachball 1 Low
+* source:	https://sketchfab.com/3d-models/beachball-1-low-10e4d04dd13c49218475b9e4bff5f288
+* author:	ZimbieFoxButOk (https://sketchfab.com/ZimbieFoxButOk)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Beachball 1 Low" (https://sketchfab.com/3d-models/beachball-1-low-10e4d04dd13c49218475b9e4bff5f288) by ZimbieFoxButOk (https://sketchfab.com/ZimbieFoxButOk) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
