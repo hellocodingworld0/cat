@@ -1,0 +1,633 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 12663,
+      "max": [
+        2.5035877227783203,
+        2.6089260578155518,
+        8.325986862182617
+      ],
+      "min": [
+        -2.5326449871063232,
+        -2.799273729324341,
+        -1.1007993627742962e-08
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 151956,
+      "componentType": 5126,
+      "count": 12663,
+      "max": [
+        0.9999879598617554,
+        0.999988317489624,
+        0.9999963045120239
+      ],
+      "min": [
+        -0.9999969005584717,
+        -0.9999808073043823,
+        -0.9585466384887695
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 12663,
+      "max": [
+        1.0131891965866089,
+        1.1456819772720337
+      ],
+      "min": [
+        -0.013189196586608887,
+        -0.1456819772720337
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 101304,
+      "componentType": 5126,
+      "count": 12663,
+      "max": [
+        1.5027433633804321,
+        0.9073249101638794
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 46392,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 303912,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        2.4410881996154785,
+        2.9579837322235107,
+        8.863975524902344
+      ],
+      "min": [
+        -2.8923819065093994,
+        -2.657059907913208,
+        1.956470012664795
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1090296,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999772906303406,
+        0.9999918341636658,
+        0.9998182058334351
+      ],
+      "min": [
+        -0.9999853372573853,
+        -0.9998409152030945,
+        -0.9999307990074158
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 202608,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9339237213134766,
+        1.0761337280273438
+      ],
+      "min": [
+        -0.061697304248809814,
+        -0.08459687978029251
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 726864,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.5052165985107422,
+        0.905796468257904
+      ],
+      "min": [
+        0.0937761664390564,
+        0.09482801705598831
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 185568,
+      "componentType": 5125,
+      "count": 98298,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1876680,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        3.0764644145965576,
+        3.1947548389434814,
+        4.488259315490723
+      ],
+      "min": [
+        -3.015369176864624,
+        -3.458542823791504,
+        1.040566086769104
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2663064,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9997385144233704,
+        0.9996931552886963,
+        0.9999930262565613
+      ],
+      "min": [
+        -0.9999540448188782,
+        -0.9999809265136719,
+        -0.9997533559799194
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1251120,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9339237213134766,
+        1.0761337280273438
+      ],
+      "min": [
+        -0.061697304248809814,
+        -0.08459687978029251
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1775376,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.1010643243789673,
+        0.9063654541969299
+      ],
+      "min": [
+        0.09134219586849213,
+        0.09303974360227585
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 578760,
+      "componentType": 5125,
+      "count": 98298,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3449448,
+      "componentType": 5126,
+      "count": 47928,
+      "max": [
+        3.008812427520752,
+        3.2553131580352783,
+        6.399901390075684
+      ],
+      "min": [
+        -3.1720492839813232,
+        -3.237718105316162,
+        2.6965904235839844
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 4024584,
+      "componentType": 5126,
+      "count": 47928,
+      "max": [
+        0.999912440776825,
+        0.9999055862426758,
+        0.9999974966049194
+      ],
+      "min": [
+        -0.9998398423194885,
+        -0.9999632835388184,
+        -0.9997499585151672
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2299632,
+      "componentType": 5126,
+      "count": 47928,
+      "max": [
+        0.9339237213134766,
+        1.0761337280273438
+      ],
+      "min": [
+        -0.061697304248809814,
+        -0.08459687978029251
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2683056,
+      "componentType": 5126,
+      "count": 47928,
+      "max": [
+        1.1057648658752441,
+        0.9093246459960938
+      ],
+      "min": [
+        0.09375891834497452,
+        0.09454484283924103
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 971952,
+      "componentType": 5125,
+      "count": 71892,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 4599720,
+      "componentType": 5126,
+      "count": 56396,
+      "max": [
+        3.006220579147339,
+        3.180851936340332,
+        8.79282283782959
+      ],
+      "min": [
+        -3.124105930328369,
+        -3.3799421787261963,
+        1.2385337352752686
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 5276472,
+      "componentType": 5126,
+      "count": 56396,
+      "max": [
+        0.9999139308929443,
+        0.9999328851699829,
+        0.9999980926513672
+      ],
+      "min": [
+        -0.9999732971191406,
+        -0.9999803304672241,
+        -0.9999432563781738
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3066480,
+      "componentType": 5126,
+      "count": 56396,
+      "max": [
+        0.0,
+        0.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3517648,
+      "componentType": 5126,
+      "count": 56396,
+      "max": [
+        1.5048680305480957,
+        0.9089800119400024
+      ],
+      "min": [
+        0.09155549108982086,
+        0.0933440625667572
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1259520,
+      "componentType": 5125,
+      "count": 339312,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Chanakya.Sarma (https://sketchfab.com/Chanakya.Sarma)",
+      "license": "CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)",
+      "source": "https://sketchfab.com/3d-models/tree-larix-81ae70837f88458689a94594fb5237d3",
+      "title": "Tree Larix"
+    },
+    "generator": "Sketchfab-12.78.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2616768,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3968816,
+      "byteOffset": 2616768,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5953224,
+      "byteOffset": 6585584,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 12538808,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Bark_Larix-decidua_bqm",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.100481,
+          0.0825661,
+          0.0560243,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Leaf_Larix-decidua_bqm",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.111598,
+          0.170645,
+          0.0163344,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Snow_bqm",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.8,
+          0.8,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8040408205773457
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Tree_Larix-decidua_C_winter_Bark_Larix-decidua_bqm_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Tree_Larix-decidua_C_winter_Leaf_Larix-decidua_bqm_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TEXCOORD_0": 7,
+            "TEXCOORD_1": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Tree_Larix-decidua_C_winter_Leaf_Larix-decidua_bqm_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TEXCOORD_0": 12,
+            "TEXCOORD_1": 13
+          },
+          "indices": 14,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Tree_Larix-decidua_C_winter_Leaf_Larix-decidua_bqm_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15,
+            "TEXCOORD_0": 17,
+            "TEXCOORD_1": 18
+          },
+          "indices": 19,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Tree_Larix-decidua_C_winter_Snow_bqm_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TEXCOORD_0": 22,
+            "TEXCOORD_1": 23
+          },
+          "indices": 24,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Tree.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Tree_Larix-decidua_C_winter"
+    },
+    {
+      "mesh": 0,
+      "name": "Tree_Larix-decidua_C_winter_Bark_Larix-decidua_bqm_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Tree_Larix-decidua_C_winter_Leaf_Larix-decidua_bqm_0"
+    },
+    {
+      "mesh": 2,
+      "name": "Tree_Larix-decidua_C_winter_Leaf_Larix-decidua_bqm_0"
+    },
+    {
+      "mesh": 3,
+      "name": "Tree_Larix-decidua_C_winter_Leaf_Larix-decidua_bqm_0"
+    },
+    {
+      "mesh": 4,
+      "name": "Tree_Larix-decidua_C_winter_Snow_bqm_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

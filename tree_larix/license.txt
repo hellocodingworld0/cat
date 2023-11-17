@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tree Larix
+* source:	https://sketchfab.com/3d-models/tree-larix-81ae70837f88458689a94594fb5237d3
+* author:	Chanakya.Sarma (https://sketchfab.com/Chanakya.Sarma)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tree Larix" (https://sketchfab.com/3d-models/tree-larix-81ae70837f88458689a94594fb5237d3) by Chanakya.Sarma (https://sketchfab.com/Chanakya.Sarma) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
